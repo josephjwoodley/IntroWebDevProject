@@ -1,0 +1,17 @@
+Tech Specs
+
+what displays do you have to support?
+Laptop screen (later mobile)
+
+what browswers?
+Google Chrome, Safari, IE
+
+what languages are you using?
+Javascript
+
+what 3rd party technologies?
+Yelp API (or grocery API)
+
+what are 3rd party requirements?
+Yelp is Open API (I haven't found an Open API for grocery yet)
+
