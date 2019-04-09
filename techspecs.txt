@@ -1,7 +1,7 @@
 Tech Specs
 
 what displays do you have to support?
-Laptop screen (later mobile)
+Mobile (most used)
 
 what browswers?
 Google Chrome, Safari, IE
@@ -24,8 +24,9 @@ developer - creator
 
 As a local, I want to find a new place to eat based on user reviews.
 As an out of towner, I want to find restaurants that serve food past 10pm (not just alcohol).
-As a consumer, I may want to know the weather also to determine if outdoor eating is desired or not.
+As a consumer, I want to know the weather also to determine if outdoor eating is desired or not.
 As a consumer, I want to know Top Five restaurants within walking distance of my hotel (need to enter hotel address).
+As a consumer, I want to know latest Instagram posts about a specific restaurant.
 As a business, I want consumers to know my business hours.
 As a developer, I want to create and quick search and display for Top Five restaurants based on reviews.
 
@@ -37,6 +38,7 @@ grocery store - user/business
 developer - creator
 
 As a grocery shopper, I want an efficient route for grocery shopping so that I don't spend hours in the store.
+As a grocery shopper, I want to know if certain days/hours offer double coupons.
 As an infrequent shopper for my household, I want to be able to locate items without searching up and down the aisle.
 As a husband who normally doesn't do the grocery shopping, I want to find the specific item/brand my wife wants.
 As a business, I want customers to be able to find products so they can purchase them.
